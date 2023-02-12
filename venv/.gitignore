@@ -1,9 +1,6 @@
-# created by virtualenv automatically
-month1
-month2
-my
-lib
+# created by virtualenv automaticall
 bin
+lib
 pyvenv.cfg
-.idea
 __pycache__
+.idea
